@@ -1,7 +1,0 @@
-/build/
-/cmake-build-*/
-/test_data/
-*.db
-*.o
-*.obj
-*.exe
